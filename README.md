@@ -1,4 +1,4 @@
-### Hi there, my name is Josh! 👋
+### Hi there, my name is Josh! Nice to meet you! 👋
 
 <!--
 **joshlim01/joshlim01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
