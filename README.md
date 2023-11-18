@@ -1,4 +1,6 @@
-### Hi there, my name is Josh, I'm an Engineering Physics student at the University of British Columbia. 👋
+### Hi there, nice to meet you! 👋
+
+My name is Josh, I'm an Engineering Physics student at the University of British Columbia.
 
 <!--
 **joshlim01/joshlim01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
